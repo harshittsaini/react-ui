@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <div className='flex justify-between max-w-[1240px] items-center mx-auto px-4 h-24'>
 
-        <h1 className='text-[#00df9a] font-bold text-3xl w-full'>React.</h1>
+        <h1 className='text-[#00df9a] font-bold text-3xl w-full'>Data Finance</h1>
 
         <ul className='gap-6 p-4 hidden md:flex cursor-pointer'>
             <li>Home</li>
